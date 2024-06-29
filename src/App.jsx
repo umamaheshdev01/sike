@@ -11,6 +11,7 @@ import Work from "./pages/Work/Work";
 import Projects from "./pages/Projects/Projects";
 import Photos from "./pages/Photos/Photos";
 import Post from "./pages/Post/Post";
+import Movie from "./projects/moviewebsite/movie";
 
 function App() {
   const location = useLocation();
@@ -23,6 +24,7 @@ function App() {
         <Route path="/projects" element={<Projects />} />
         <Route path="/photos" element={<Photos />} />
         <Route path="/post" element={<Post />} />
+        <Route path="/movies" element={<Movie />} />
       </Routes>
     </>
   );

@@ -10,6 +10,7 @@ import {
   FaGithub,
   FaEnvelope,
 } from "react-icons/fa";
+import { FaFile } from "react-icons/fa6";
 
 const DockItem = ({
   IconComponent,
@@ -96,14 +97,14 @@ const Dock = () => {
     { icon: FaFolderOpen, path: "/projects" },
     { icon: FaCamera, path: "/photos" },
     {
-      icon: FaTwitter,
+      icon: FaFile,
       path: "https://twitter.com/codegridweb",
       external: true,
     },
-    { icon: FaGithub, path: "https://github.com/codegrid", external: true },
+    { icon: FaGithub, path: "https://github.com/umamaheshdev01", external: true },
     {
       icon: FaEnvelope,
-      path: "mailto:contact@codegridweb.com",
+      path: "mailto:umamaheshdev01@gmail.com",
       external: true,
     },
   ];

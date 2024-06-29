@@ -2,7 +2,7 @@ import React from "react";
 import Spline from "@splinetool/react-spline";
 import "./home.css";
 
-import { FaSquareFull } from "react-icons/fa";
+import { FaBolt, FaCode, FaSquareFull } from "react-icons/fa";
 
 import LiveClockUpdate from "../../components/LiveClockUpdate/LiveClockUpdate";
 
@@ -21,12 +21,12 @@ const Home = () => {
       </div>
 
       <div className="hero-header">
-        <h1>Artistry and Engineering</h1>
-        <h1>By Soren</h1>
+        <h1>Coding and Engineering</h1>
+        <h1>By Uma Mahesh</h1>
       </div>
 
       <div className="home-logo">
-        <FaSquareFull size="16px" style={{ color: "#fff" }} />
+        <FaBolt size="20px" style={{ color: "#fff" }} />
       </div>
 
       <div className="live-clock">

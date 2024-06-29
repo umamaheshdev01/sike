@@ -3,8 +3,7 @@ import "./post.css";
 
 import { FaLink } from "react-icons/fa";
 
-import PostImage1 from "../../assets/work/work-2.jpg";
-import PostImage2 from "../../assets/work/work-7.jpg";
+
 
 const Post = () => {
   return (
@@ -39,7 +38,7 @@ const Post = () => {
         </p>
 
         <div className="post-img post-img-1">
-          <img src={PostImage1} alt="" />
+          {/* <img src={PostImage1} alt="" /> */}
         </div>
 
         <p>
@@ -51,7 +50,7 @@ const Post = () => {
         </p>
 
         <div className="post-img post-img-2">
-          <img src={PostImage2} alt="" />
+          {/* <img src={PostImage2} alt="" /> */}
         </div>
 
         <p>
