@@ -23,7 +23,7 @@ const Projects = () => {
       title: "Movies Forever",
       copy: "Movie ticket booking website",
       year: "2022",
-      link : '/'
+      link : '/movies'
     },
     
   ];

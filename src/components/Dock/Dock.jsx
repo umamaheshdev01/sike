@@ -93,8 +93,9 @@ const Dock = () => {
 
   const icons = [
     { icon: FaHome, path: "/" },
-    { icon: FaPalette, path: "/work" },
     { icon: FaFolderOpen, path: "/projects" },
+    { icon: FaPalette, path: "/work" },
+
     { icon: FaCamera, path: "/photos" },
     {
       icon: FaFile,

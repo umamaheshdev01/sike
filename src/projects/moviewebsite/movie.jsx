@@ -15,19 +15,19 @@ const Movie = () => {
           <p>December 2022</p>
         </div>
         <div className="post-link">
-          <FaLink size="14px" style={{ color: "hsl(0 0% 60%)" }} />
+         <a href="https://movietickets-two.vercel.app/"> <FaLink size="14px" style={{ color: "hsl(0 0% 60%)" }} /></a>
         </div>
       </div>
 
       <div className="post-content">
-        <p>
+        <p >
           A Movie booking site inspired from Book My Show with some creative touch. This is my first project
           which helped me find my intrest in web development.
         </p>
 
-        <p>
-        With this project, I have mastered important and basic concepts of the HTML,CSS and vanilla Javascript.
-        </p>
+        <p>Built with basic <span style={{color:'green'}}> HTML , CSS and Vanilla Js</span>.</p>
+
+        
 
         <div className="post-img post-img-1">
           <img src={PostImage1} alt="" />
@@ -38,7 +38,9 @@ const Movie = () => {
 
           I didn't use a great techstack for the project. I used pure HTML,CSS and JS to do this project.As it was my first project it took
           me more than a week to do this project.The challenges i faced during working on the project is my own creativity.
-          Intially I made a prototype for the project which was very bad looking. I tried my best to improve the UI of the website so 
+          </p>
+          
+          <p>Intially I made a prototype for the project which was very bad looking. I tried my best to improve the UI of the website so 
           I restarted the whole project from scratch, this time i made it quicker then before since my past experience helped me.
           And finally got a beautiful output.
         </p>
