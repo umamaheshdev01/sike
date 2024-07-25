@@ -5,9 +5,7 @@ import { useRef } from "react";
 import gsap from "gsap";
 import { useGSAP } from "@gsap/react";
 
-import WorkItem from "./WorkItem";
-import Image1 from '../../projects/moviewebsite/img4.png'
-import Image2 from '../../projects/moviewebsite/img3.png'
+
 
 gsap.registerPlugin(useGSAP);
 
@@ -24,19 +22,19 @@ const Work = () => {
   return (
     <div className="container page-work" ref={container}>
       <div className="col">
-      <WorkItem
+      {/* <WorkItem
           imgUrl={Image1}
           containerHeight="400"
           workName="Movies Forever"
           workDate="December 2022"
           type="blog"
           url="/movies"
-        />
+        /> */}
       </div>
 
       <div className="col">
 
-
+{/* 
       <WorkItem
           imgUrl={Image2}
           containerHeight="400"
@@ -44,7 +42,7 @@ const Work = () => {
           workDate="December 2022"
           type="img"
           url="/movies"
-        />
+        /> */}
         
         
       </div>

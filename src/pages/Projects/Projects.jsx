@@ -19,12 +19,57 @@ const useMultipleScrambles = (projects) => {
 
 const Projects = () => {
   const projectData = [
+
+    {
+      title: "Classroom of Elite",
+      copy: "Smart Classroom App",
+      year: "2024",
+      link : 'https://github.com/umamaheshdev01/Ecommerce'
+    },
+
+    
+    {
+      title: "Hop Shop",
+      copy: "Ecommerce Website",
+      year: "2024",
+      link : 'https://github.com/umamaheshdev01/Hop-Shop'
+    },
+
+
+    
+
+    {
+      title: "Service Express",
+      copy: "Website for a startup",
+      year: "2024",
+      link : 'https://github.com/umamaheshdev01/Ecommerce'
+    },
+
+
+    {
+      title: "Connect Hub",
+      copy: "Web app for selling projects",
+      year: "2024",
+      link : 'https://github.com/umamaheshdev01/Ecommerce'
+    },
+
+
+    
+    {
+      title: "ICMAMC",
+      copy: "College Event Website",
+      year: "2023",
+      link : 'https://github.com/umamaheshdev01/ICMAMC'
+    },
+
     {
       title: "Movies Forever",
       copy: "Movie ticket booking website",
       year: "2022",
-      link : '/movies'
+      link : 'https://github.com/umamaheshdev01/Movies-Forever'
     },
+
+
     
   ];
 
