@@ -22,7 +22,7 @@ const Projects = () => {
 
     {
       title: "Classroom of Elite",
-      copy: "Smart Classroom App built on NextJS Supabase Shadcn",
+      copy: "NextJS Supabase Shadcn",
       year: "2024",
       link : 'https://github.com/umamaheshdev01/classroom_of_elite'
     },
@@ -30,7 +30,7 @@ const Projects = () => {
     
     {
       title: "Hop Shop",
-      copy: "Ecommerce Website built on NextJS Supabase Shadcn",
+      copy: "NextJS Supabase Shadcn",
       year: "2024",
       link : 'https://github.com/umamaheshdev01/Hop-Shop'
     },
@@ -38,7 +38,7 @@ const Projects = () => {
 
     {
       title: "Connect Hub",
-      copy: "Web app for selling projects buit on NextJS Supabase Tailwind",
+      copy: "NextJS Supabase Tailwind",
       year: "2024",
       link : 'https://github.com/umamaheshdev01/connecthub'
     },
@@ -47,14 +47,14 @@ const Projects = () => {
     
     {
       title: "ICMAMC",
-      copy: "College Event Website built on React Tailwind",
+      copy: "React Tailwind",
       year: "2023",
       link : 'https://github.com/umamaheshdev01/ICMAMC'
     },
 
     {
       title: "Movies Forever",
-      copy: "Movie Ticket Booking Website built on HTML CSS JS",
+      copy: "HTML CSS JS",
       year: "2022",
       link : 'https://github.com/umamaheshdev01/Movies-Forever'
     },
