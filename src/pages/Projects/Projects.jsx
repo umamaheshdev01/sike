@@ -22,49 +22,39 @@ const Projects = () => {
 
     {
       title: "Classroom of Elite",
-      copy: "Smart Classroom App",
+      copy: "Smart Classroom App built on NextJS Supabase Shadcn",
       year: "2024",
-      link : 'https://github.com/umamaheshdev01/Ecommerce'
+      link : 'https://github.com/umamaheshdev01/classroom_of_elite'
     },
 
     
     {
       title: "Hop Shop",
-      copy: "Ecommerce Website",
+      copy: "Ecommerce Website built on NextJS Supabase Shadcn",
       year: "2024",
       link : 'https://github.com/umamaheshdev01/Hop-Shop'
     },
 
 
-    
-
-    {
-      title: "Service Express",
-      copy: "Website for a startup",
-      year: "2024",
-      link : 'https://github.com/umamaheshdev01/Ecommerce'
-    },
-
-
     {
       title: "Connect Hub",
-      copy: "Web app for selling projects",
+      copy: "Web app for selling projects buit on NextJS Supabase Tailwind",
       year: "2024",
-      link : 'https://github.com/umamaheshdev01/Ecommerce'
+      link : 'https://github.com/umamaheshdev01/connecthub'
     },
 
 
     
     {
       title: "ICMAMC",
-      copy: "College Event Website",
+      copy: "College Event Website built on React Tailwind",
       year: "2023",
       link : 'https://github.com/umamaheshdev01/ICMAMC'
     },
 
     {
       title: "Movies Forever",
-      copy: "Movie ticket booking website",
+      copy: "Movie Ticket Booking Website built on HTML CSS JS",
       year: "2022",
       link : 'https://github.com/umamaheshdev01/Movies-Forever'
     },
