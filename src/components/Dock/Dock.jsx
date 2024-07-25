@@ -99,7 +99,7 @@ const Dock = () => {
     { icon: FaCamera, path: "/photos" },
     {
       icon: FaFile,
-      path: "https://twitter.com/codegridweb",
+      path: "./Resume.pdf",
       external: true,
     },
     { icon: FaGithub, path: "https://github.com/umamaheshdev01", external: true },
